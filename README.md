@@ -53,6 +53,3 @@ The project demonstrated that machine learning models can effectively predict cu
     The LSTM model produced the most accurate predictions by capturing temporal dependencies in the data. However, it required more computational resources.
 
 The results were evaluated using MAE, MSE, and R², and visualizations were used to compare predictions against actual exchange rates.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
